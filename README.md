@@ -1,0 +1,5 @@
+- 👋 Ola, eu sou @ThisIsTheAG
+- 👀 Estou interessado em Programação
+- 🌱 Estou Aprendendo GML (Game Maker 2)
+- 💞️ Não estou colaborando com nada
+- 📫 Meu Discord VACOVICS#3555
